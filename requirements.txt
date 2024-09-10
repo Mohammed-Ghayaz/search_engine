@@ -1,0 +1,6 @@
+Flask
+pandas
+openpyxl
+fuzzywuzzy
+python-Levenshtein
+gunicorn
